@@ -1,0 +1,19 @@
+body{
+  font-family:Arial;
+  padding:20px;
+}
+
+.container{
+  display:flex;
+  gap:20px;
+  justify-content:center;
+}
+
+.box{
+  background:#38bdf8;
+  color:white;
+  padding:40px;
+  width:100px;
+  text-align:center;
+  border-radius:8px;
+}
