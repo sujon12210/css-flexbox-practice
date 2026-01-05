@@ -1,2 +1,6 @@
-# css-flexbox-practice
-Practice flexbox layouts using CSS
+# CSS Flexbox Practice
+
+This project demonstrates basic flexbox concepts:
+- display: flex
+- justify-content
+- gap
